@@ -1,5 +1,5 @@
 # Final-Year-Project
-A repository for my final year project of university. Entitled "Network Latency Tool"
+A repository for my final year project of university. Entitled "Network Latency Tool".
 
 Quick Start Guide:
 Use the batch file in the /Final Source/ folder to open the 2 clients and 1 tool applications needed to run the demonstration.
